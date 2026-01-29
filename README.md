@@ -7,7 +7,7 @@
   
 - 🗣️ I speak french and english.
 
-- 📫 Reach me on discord at "lisox.shhhh"
+- 📫 Reach me on discord at "lisox.exe"
 
 
 
