@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **dev and cybersecurity**
 
-- 📄I have two years of experience so i'm beginner.
+- 📄I have five years of experience.
   
 - 🗣️ I speak french and english.
 
-- 📫 Reach me on discord at "lisox.exe"
+- 📫 Reach me on discord at "lisox_"
 
 
 
