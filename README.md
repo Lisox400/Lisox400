@@ -9,6 +9,13 @@
 
 - 📫 Reach me on discord at "lisox_"
 
+- <h3 align="left">🚩 TryHackMe</h3>
+<p align="left">
+  <a href="https://tryhackme.com/p/Lisox" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Lisox.png" alt="Lisox TryHackMe badge"/>
+  </a>
+</p>
+
 
 
 
