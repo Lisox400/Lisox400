@@ -12,7 +12,7 @@
 - <h3 align="left">🚩 TryHackMe</h3>
 <p align="left">
   <a href="https://tryhackme.com/p/Lisox" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Lisox.png" alt="Lisox TryHackMe badge"/>
+    <img src="https://tryhackme-badge.goncalomb.com/api/badge/v1/Lisox" alt="Lisox TryHackMe badge"/>
   </a>
 </p>
 
